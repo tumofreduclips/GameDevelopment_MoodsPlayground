@@ -1,0 +1,13 @@
+{
+"companyName": "TUMOEdu",
+"productName": "LightsPlayground",
+"dataUrl": "ZenGarden.data.unityweb",
+"asmCodeUrl": "ZenGarden.asm.code.unityweb",
+"asmMemoryUrl": "ZenGarden.asm.memory.unityweb",
+"asmFrameworkUrl": "ZenGarden.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
